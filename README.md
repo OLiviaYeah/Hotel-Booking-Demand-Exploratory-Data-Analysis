@@ -123,9 +123,9 @@ df.meal.replace("Undefined", "SC", inplace=True)
 df.info()
 ```
 
-<img width="550" alt="5" src="https://user-images.githubusercontent.com/101906347/170098886-04b26199-63b9-48c8-bbbc-7cd9c07157a9.png">
+<img width="526" alt="Screen Shot 2022-05-24 at 2 34 21 PM" src="https://user-images.githubusercontent.com/101906347/170107789-1b1304a0-8c91-475b-be79-51d1ade12348.png">
 
-> City Hotel has **higher** annual sales than Resort Hotel, except in 2015.
+> Data cleaning is complete, and the dataset size becomes 118565×30
 
 ```
 #Change the data type (change reservation_status_date to date type)
